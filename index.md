@@ -1,4 +1,4 @@
-# title: Mineral Potential in Myanmar
+# Mineral Potential in Myanmar
 
 ## 1.1 Introduction
 
