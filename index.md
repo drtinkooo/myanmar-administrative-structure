@@ -4,7 +4,7 @@
 
 Myanmar is a country located in Southeast Asia that is bordered by India, Bangladesh, China, Laos, and Thailand. In accordance with the 2008 Constitution (Chapter II: State Structure), the country is divided into seven States, seven Regions, and one Union Territory. 
 
-<iframe src="myan_admin.png" height="520" width="520"></iframe>
+<iframe src="myan_admin.png" height="620" width="620"></iframe>
 
 The following map shows three levels of administrative boundary of Myanmar associated with town points.
 
