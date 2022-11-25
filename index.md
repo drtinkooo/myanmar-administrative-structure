@@ -9,4 +9,4 @@ Myanmar is a country located in Southeast Asia that is bordered by India, Bangla
 The following map shows three levels of administrative boundary of Myanmar associated with town points.
 
 <iframe src="myan_admin_Bound.html" height="1000" width="1000"></iframe>
-You can explore this map as its own web page here.
+You can explore this map [as its own web page here](myan_admin_Bound.html).
